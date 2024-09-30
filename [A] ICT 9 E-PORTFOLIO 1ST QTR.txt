@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<title> E-PORTFOLIO || ICT 9 </title> 
+ <style>
+        body {
+            font-family: Courier;
+            margin: 10px;
+            padding: 0;
+            background-color: #080808;
+            color: #b235db;
+        }
+        nav {
+            background-color: #080808;
+            padding: 15px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 205px;
+            box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+            overflow-y: auto;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li a {
+            color:#b235db;
+            text-decoration: none;
+            font-size: 1em;
+            font-weight: bold;
+            padding: 8px 13px;
+            display: block;
+            border-radius: 10px;
+            margin: 10px 0;            
+        }
+        nav ul li a:hover {
+            color: #ce3ffc;
+            background-color: #080808;
+            border-radius: 50px;
+            margin: 5px 
+        }
+        .content {
+            margin-left: 220px;
+            padding: 20px;
+        }
+        .section {
+            display: none;
+        }
+        .section:target {
+            display: block;
+       
+    </style>
+</head>
+
+<body bgcolor="#080808" style="font-family:Courier;">
+
+<div style="width:850px; margin:auto; text-align:left;">
+<audio controls autoplay loop align="right">
+  <source src="i made it all up.ogg" type="audio/ogg">
+  <source src="i made it all up.mp3" type="audio/mpeg">
+  Your browser does not support the audio element :(((
+</audio>
+</div>
+
+<nav>
+<ul>
+<p style="color:#b235db; font-family:Courier; text-align:justify; font-size:12px;">
+ict ict ict ict ict ict ict ict ict ict ict‬ ict ict ict ict ict ❤︎‬‬ ict ict ict ict ict ict ict 
+ict ict ict ict ict ict ict ict ict ict ict ict ict ict ict ict ict ict
+</p>
+<p style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;"><strong>★ - - - - - - ★</strong></p>
+<br/>
+<li style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;"><a href="#aboutme"><strong>About Me</strong></a></li>
+<li style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;"><a href="#quarter1"><strong>First Quarter</strong></a></li>
+<li style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;"><a href="#quarter2"><strong>Second Quarter</strong></a></li>
+<li style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;"><a href="#quarter3"><strong>Third Quarter</strong></a></li>
+<li style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;"><a href="#quarter4"><strong>Fourth Quarter</strong></a></li>
+<br/>
+<p style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;"><strong>★ - - - - - - ★</strong></p>
+<p style="color:#b235db; font-family:Courier; text-align:justify; font-size:12px;">Special thanks to Miguel Gaerlan for showing how to make a sidebar and separate pages ☺‬</p>
+</ul>
+</nav>
+
+<div class="content">
+<p style="font-size:15px;"> please click any button in the sidebar :) </p>
+
+<div id="aboutme" class="section">
+<strong><pre><p style="color:#b235db; text-align:center; font-size:20px;">
+     ____    ___           __  ___     ___    
+    / __/___/ _ \___  ____/ /_/ _/__  / (_)__ 
+   / _//___/ ___/ _ \/ __/ __/ _/ _ \/ / / _ \
+  /___/   /_/   \___/_/  \__/_/ \___/_/_/\___/
+TLE/ICT 9 || <strong> About Me </strong> || SY. 2024-2025 <br/>
+✰ || ------------------------------------------------------------------------------------ || ✰
+</p></pre></strong>
+
+<p style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;"> 
+Greetings! My name is <strong> Yanniah Moira D. Ponsaran </strong> of 9-Fidelity. <br/> Here are my <strong> stats </strong> to get to know me better. 
+<br/>
+
+<ul type="circle" style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;">
+  <li> <strong> Level/Age:</strong> 14 </li>
+  <li> <strong> Health: </strong> 2000/2000 </li>
+  <li> <strong> Intelligence: </strong> ■■■□□ </li>
+  <li> <strong> Strength: </strong> ■■■■□ </li>
+  <li> <strong> Agility: </strong> ■■■□□ </li>
+  <li> <strong> Combat Type: </strong> Tank </li>
+<br/>
+  <li> <strong> Sex: </strong> Female </li>
+  <li> <strong> Birthday:</strong> 12th of March, 2010 </li>
+  <li> <strong> Height: </strong> 165cm </li>
+  <li> <strong> Current Address: </strong> Talon Dos, Las Piñas, Philippines </li>
+  <li> <strong> General Hobbies/Preferences: </strong> drawing, playing video games,<br/> listening to music, reading books & fanfiction, playing volleyball, talking w/ peers </li>
+<br/>
+  <li> <strong> Media: </strong> <br/> <br/> me recently <br/> <a href="file:///C:/Users/YANNIAH/Downloads/symphony.mp4"> <img src="goofy ahh selfie.jpg" alt="a goofy ahh selfie" height="400px" width="550px"> </a> 
+  <br/> <br/> me as child <br/> <img src="me as kid.jpg" alt="me as kid" height="660px" width="550px"> 
+  <br/> <br/> me singing (i barely cooked 💀🙏) <br/> 
+<video width="320" height="240" controls>
+  <source src="me singing.mov" type="video/mov">
+Your browser does not support this video :((
+</video>
+</li>
+</ul>
+</p>
+</div>
+
+<div id="quarter1" class="section">
+  <strong><pre><p style="color:#b235db; text-align:center; font-size:20px;">
+     ____    ___           __  ___     ___    
+    / __/___/ _ \___  ____/ /_/ _/__  / (_)__ 
+   / _//___/ ___/ _ \/ __/ __/ _/ _ \/ / / _ \
+  /___/   /_/   \___/_/  \__/_/ \___/_/_/\___/
+  TLE/ICT 9 || <strong> First Quarter </strong> || SY. 2024-2025 <br/>
+  ✰ || ------------------------------------------------------------------------------------ || ✰
+</p></pre></strong>
+
+<p style="color:#b235db; font-family:Courier; text-align:left; font-size:25px;">
+ <pre>
+     ___      __  _      _ __  _       
+    / _ |____/ /_(_)  __(_) /_(_)__ ___
+   / __ / __/ __/ / |/ / / __/ / -_|_-< o
+  /_/ |_\__/\__/_/|___/_/\__/_/\__/___/ o
+<i>✰</i>  - - - - - - - - - - - - - - - - - - - - - <i>✰</i>
+</pre>
+</p>
+
+<table align="center" border="3px" bordercolor="#b235db" cellpadding="7px">
+
+<tr>
+<td bgcolor="#b235db" style="color:#080808; font-family:Courier; text-align:justify; font-size:20px;"> <strong>✧  Activity/Output  ✧</strong> </td>
+<td bgcolor="#b235db" style="color:#080808; font-family:Courier; text-align:justify; font-size:20px;"> <strong>✧  Pictures  ✧</strong> </td>
+</tr>
+
+<tr>
+<td style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;">
+<strong> <i> 1. My Experience on the First Day of Class </i> </strong> <br/>
+We were instructed to make an HTML website with <br/> a reflection of our experience during the <br/> first day of Grade 9, along with adding an audio <br/>and related image.
+</td>
+<td style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;"> 
+<a href="file:///C:/Users/YANNIAH/OneDrive/Desktop/ICT%20E-PORTFOLIO/screenshot%201.png" target="blank">.html screenshot</a> <br/> 
+<a href="file:///C:/Users/YANNIAH/OneDrive/Desktop/ICT%20E-PORTFOLIO/screenshot%201.2.png" target="blank">.txt screenshot</a>
+</td>
+</tr>
+
+<tr>
+<td style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;">
+<strong> <i> 2. Group Work involving Tables </i> </strong> <br/>
+We were told to gather each group member's name, <br/> phone number, birthday and address and <br/> compile them all into a table along with some hyperlinks. <br/> 
+We also submitted a hardcopy version on a 1 whole.
+</td>
+<td style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;"> 
+<a href="file:///C:/Users/YANNIAH/OneDrive/Desktop/ICT%20E-PORTFOLIO/screenshot%203.jpg" target="blank">.html screenshot</a> <br/> 
+<a href="file:///C:/Users/YANNIAH/OneDrive/Desktop/ICT%20E-PORTFOLIO/screenshot%203.2.jpg" target="blank">.txt screenshot</a>
+</td>
+</tr>
+
+<tr>
+<td style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;">
+<strong> <i> 3. Performance Task #3 </i> </strong> <br/>
+This time we were instructed to replicate an <br/> HTML website involving tables. <br/>
+Fortunately, me and my partner were able to <br/> do the task to close perfection.
+<td style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;"> 
+<a href="file:///C:/Users/YANNIAH/OneDrive/Desktop/ICT%20E-PORTFOLIO/screenshot%202.2.jpg" target="blank">.html screenshot</a> <br/> 
+<a href="file:///C:/Users/YANNIAH/OneDrive/Desktop/ICT%20E-PORTFOLIO/screenshot%202.png" target="blank">.txt screenshot</a>
+</td>
+</tr>
+
+<tr>
+<td style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;">
+<strong> <i> 4. Hands-On involving Hyperlinks </i> </strong> <br/>
+During one of the asynchronous classes, we were <br/> instructed to code a website with two hyperlinks, <br/> one leading to a website and the other to an email address. <br/>
+We also recorded a <a href="file:///C:/Users/YANNIAH/Downloads/hyperlinks%20video.mp4" target="blank">video</a> where we tested our websites out.
+<td style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;"> 
+<a href="file:///C:/Users/YANNIAH/OneDrive/Desktop/ICT%20E-PORTFOLIO/screenshot%204.2.jpg" target="blank">.html screenshot</a> <br/> 
+<a href="file:///C:/Users/YANNIAH/OneDrive/Desktop/ICT%20E-PORTFOLIO/screenshot%204.png" target="blank">.txt screenshot</a> <br/>
+</td>
+</tr>
+
+<tr>
+<td style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;">
+<strong> <i> 5. Pairwork Involving Forms </i> </strong> <br/>
+We were put into pairs and instructed to modify <br/> and code three HTML websites with forms. <br/>
+
+While one of them was done by my partner, <br/> the pictures on the right are my side of the work.
+<td style="color:#b235db; font-family:Courier; text-align:justify; font-size:20px;"> 
+Form #1: <br/>
+<a href="file:///C:/Users/YANNIAH/OneDrive/Desktop/ICT%20E-PORTFOLIO/screenshot%205.jpg" target="blank">.html screenshot</a> <br/> 
+<a href="file:///C:/Users/YANNIAH/OneDrive/Desktop/ICT%20E-PORTFOLIO/screenshot%205.5.png" target="blank">.txt screenshot</a> <br/>
+
+Form #2: <br/>
+<a href="file:///C:/Users/YANNIAH/OneDrive/Desktop/ICT%20E-PORTFOLIO/screenshot%205.4.jpg" target="blank">.html screenshot</a> <br/> 
+<a href="file:///C:/Users/YANNIAH/OneDrive/Desktop/ICT%20E-PORTFOLIO/screenshot%205.3.png" target="blank">.txt screenshot</a> <br/>
+</td>
+</tr>
+
+</table>
+
+ </pre>
+</p>
+</div>
+
+<div id="quarter2" class="section">
+<strong><pre><p style="color:#b235db; text-align:center; font-size:20px;">
+   ____    ___           __  ___     ___    
+  / __/___/ _ \___  ____/ /_/ _/__  / (_)__ 
+ / _//___/ ___/ _ \/ __/ __/ _/ _ \/ / / _ \
+/___/   /_/   \___/_/  \__/_/ \___/_/_/\___/
+TLE/ICT 9 || <strong> Second Quarter </strong> || SY. 2024-2025 <br/>
+✰ || ------------------------------------------------------------------------------------ || ✰
+</p></pre></strong> <br/>
+<p style="color:#b235db; font-family:Courier; text-align:center; font-size:20px;"> ¯\_(ツ)_/¯</p>
+</div>
+
+<div id="quarter3" class="section">
+<strong><pre><p style="color:#b235db; text-align:center; font-size:20px;">
+   ____    ___           __  ___     ___    
+  / __/___/ _ \___  ____/ /_/ _/__  / (_)__ 
+ / _//___/ ___/ _ \/ __/ __/ _/ _ \/ / / _ \
+/___/   /_/   \___/_/  \__/_/ \___/_/_/\___/
+TLE/ICT 9 || <strong> Third Quarter </strong> || SY. 2024-2025 <br/>
+✰ || ------------------------------------------------------------------------------------ || ✰
+</p></pre></strong> <br/>
+<p style="color:#b235db; font-family:Courier; text-align:center; font-size:20px;"> ¯\_(ツ)_/¯</p>
+</div>
+
+<div id="quarter4" class="section">
+<strong><pre><p style="color:#b235db; text-align:center; font-size:20px;">
+   ____    ___           __  ___     ___    
+  / __/___/ _ \___  ____/ /_/ _/__  / (_)__ 
+ / _//___/ ___/ _ \/ __/ __/ _/ _ \/ / / _ \
+/___/   /_/   \___/_/  \__/_/ \___/_/_/\___/
+TLE/ICT 9 || <strong> Fourth Quarter </strong> || SY. 2024-2025 <br/>
+✰ || ------------------------------------------------------------------------------------ || ✰
+</p></pre></strong> <br/>
+<p style="color:#b235db; font-family:Courier; text-align:center; font-size:20px;"> ¯\_(ツ)_/¯</p>
+</div>
+</div>
+
+</body>
+</html>
